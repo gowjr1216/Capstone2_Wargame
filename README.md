@@ -39,3 +39,20 @@
 1. Anaconda Prompt에서 가상환경에 접속합니다:
    ```bash
    conda activate rl_env
+
+2. 다음으로 simulate > module 폴더로 이동하여 아래의 명령어를 실행합니다:
+   ```bash
+   python battle_module.py
+   이 과정에서 battle_module.zip 파일이 생성됩니다.
+
+2. 다음으로 simulate > module 폴더로 이동하여 아래의 명령어를 실행합니다:
+   ```bash
+   python battle_module.py
+
+2. 다음으로 simulate > module 폴더로 이동하여 아래의 명령어를 실행합니다:
+   ```bash
+   python battle_module.py
+
+2. 다음으로 simulate > module 폴더로 이동하여 아래의 명령어를 실행합니다:
+   ```bash
+   python battle_module.py   
